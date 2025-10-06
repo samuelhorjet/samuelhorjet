@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**samuelhorjet/samuelhorjet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Samuel Horjet 👋
 
-Here are some ideas to get you started:
+I'm a passionate developer building the future of the decentralized web. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<div align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2AF598&center=true&vCenter=true&width=500&lines=%F0%9F%92%BB+Full+Stack+Developer;%E2%9B%93%EF%B8%8F+Smart+Contract+Engineer;%F0%9F%93%88+DeFi+Enthusiast;%F0%9F%9A%80+Innovating+one+deploy+at+a+time" alt="Typing SVG" />
+  </a>
+</div>
