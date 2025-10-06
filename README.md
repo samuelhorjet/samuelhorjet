@@ -11,3 +11,36 @@ I'm a passionate developer building the future of the decentralized web.
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2AF598&center=true&vCenter=true&width=500&lines=%F0%9F%92%BB+Full+Stack+Developer;%E2%9B%93%EF%B8%8F+Smart+Contract+Engineer;%F0%9F%93%88+DeFi+Enthusiast;%F0%9F%9A%80+Innovating+one+deploy+at+a+time" alt="Typing SVG" />
   </a>
 </div>
+
+
+
+## 🚀 About Me
+
+I am a **Full Stack Developer** and **Smart Contract Engineer** with a strong focus on the Web3 ecosystem. My expertise lies in building robust DeFi infrastructure and creating scalable backend systems. I am passionate about leveraging cutting-edge technologies to solve complex problems and drive innovation in the decentralized space.
+
+- 👨🏾‍💻 Crafting full-stack applications with **Next.js, Node.js, and TypeScript**.
+- ⛓️ Engineering secure smart contracts on **Solana using Rust and Anchor**.
+- 🛠️ Currently building **DeFi protocols, automated trading models, and AI agents**.
+- 📚 Exploring advanced topics in **zero-knowledge proofs, rollups, and Web3**.
+- 🤝 Open to collaborating on innovative projects and forming strategic partnerships.
+
+---
+
+## 🌍 Connect With Me
+
+<p align="left">
+  <a href="mailto:samuelhorjet001@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://samuelhorjet.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://twitter.com/SamuelHorjet" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://wa.me/2348105796804" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</p>
+
+---
