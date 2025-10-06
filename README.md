@@ -44,3 +44,65 @@ I am a **Full Stack Developer** and **Smart Contract Engineer** with a strong fo
 </p>
 
 ---
+
+### Tech Stack
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,nodejs,react,redux,nextjs,express,vscode,postman,figma,git,github,docker,aws,heroku" />
+  </a>
+</p>
+
+---
+
+### GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SamuelHorjet&show_icons=true&theme=dark" alt="Samuel Horjet's GitHub Stats" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelHorjet&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelHorjet&theme=dark" alt="GitHub Streak" />
+</p>
+
+---
+
+### Overall Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamuelHorjet&theme=dracula" alt="Samuel Horjet's GitHub Stats"/>
+</p>
+
+---
+
+### GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SamuelHorjet&theme=dracula&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+### Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamuelHorjet&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true" alt="Samuel Horjet's Contribution Graph" />
+</p>
+
+---
+
+### Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</p>
+
+---
+
+### Just for Fun
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Jokes Card" />
+</p>
